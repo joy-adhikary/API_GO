@@ -24,6 +24,7 @@ type Author struct {
 	Fullname string `json:"fullname"`
 	Website  string `json:"website"`
 }
+
 type Boss struct {
 	Fullname string `json:"fullname"`
 	Lastname string `json:"lastname"`
